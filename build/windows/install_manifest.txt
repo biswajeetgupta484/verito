@@ -1,0 +1,11 @@
+E:/flutter/verito/build/windows/runner/Debug/data/icudtl.dat
+E:/flutter/verito/build/windows/runner/Debug/flutter_windows.dll
+E:/flutter/verito/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+E:/flutter/verito/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+E:/flutter/verito/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+E:/flutter/verito/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+E:/flutter/verito/build/windows/runner/Debug/data/flutter_assets/images/bubble-gum-verification.gif
+E:/flutter/verito/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+E:/flutter/verito/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+E:/flutter/verito/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+E:/flutter/verito/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
