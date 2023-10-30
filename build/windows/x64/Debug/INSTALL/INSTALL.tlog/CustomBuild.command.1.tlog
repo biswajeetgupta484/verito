@@ -1,0 +1,10 @@
+^E:\FLUTTER\VERITO\BUILD\WINDOWS\CMAKEFILES\719D69AD4F8A1D41D0073449E01E6CE5\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
