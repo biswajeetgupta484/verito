@@ -53,7 +53,7 @@ class _CartState extends State<Cart> {
           width: 50,
         ),
         trailing: Container(
-          width: 150,
+          width: MediaQuery.of(context).size.width * 0.4,
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             crossAxisAlignment: CrossAxisAlignment.end,
